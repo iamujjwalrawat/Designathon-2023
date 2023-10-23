@@ -119,9 +119,9 @@ struct MoviesCarousel: View {
                             .scaleEffect(.init(width: scale, height: scale))
                             .padding(.vertical)
                     }
-                    .frame(width: 125, height: 400)
-                    .padding(.horizontal, 32)
-                    .padding(.vertical, 32)
+                    .frame(width: 130, height: 400)
+                    .padding(.horizontal, 33)
+                    .padding(.vertical, 33)
                 }
                 Spacer()
                     .frame(width: 16)
